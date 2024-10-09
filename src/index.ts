@@ -18,7 +18,7 @@ const car1 = new Car(
   'Toyota',
   'Camry',
   2021,
-  3000,
+  5000,
   130,
   []
 );
