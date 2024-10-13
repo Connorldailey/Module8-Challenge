@@ -40,6 +40,8 @@ Once the application starts, a command-line menu prompts the user to create or s
 
 Experiment with different vehicle types and actions to explore the application’s capabilities.
 
+[Walk-through Video](https://drive.google.com/file/d/1lhb_2R8z0YxzbmLER5xjmVQtOzknl8YU/view?usp=sharing)
+
 ## Credits 
 
 This project was developed with starter code provided by The Ohio State Coding Bootcamp.
